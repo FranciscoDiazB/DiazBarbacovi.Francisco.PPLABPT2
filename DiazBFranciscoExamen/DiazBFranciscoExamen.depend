@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1621963175 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"moto.h"
+
+1621427387 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+
+1621427520 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\tipo.h
+
+1621971321 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1621427520 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\color.h
+
+1621434356 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\moto.h
+	"color.h"
+	"tipo.h"
+
+1621986307 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicios.h"
+	"trabajo.h"
+	"hardcodeo.h"
+	"informespractica.h"
+
+1621959454 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\servicios.h
+
+1621959283 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1621434736 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicios.h"
+
+1621432348 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\fecha.h
+
+1621959519 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+
+1621962783 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"hardcodeo.h"
+
+1621880916 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\hardcodeo.h
+	"trabajo.h"
+
+1621986177 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\informespractica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informespractica.h"
+
+1621982812 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\informespractica.h
+	"trabajo.h"
+
+1621971321 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1622039883 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\color.h
+
+1622033549 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"hardcodeo.h"
+
+1621880916 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\hardcodeo.h
+	"trabajo.h"
+
+1622030396 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicios.h"
+
+1621432348 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\fecha.h
+
+1622039778 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\moto.h
+	"color.h"
+	"tipo.h"
+
+1622039297 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\tipo.h
+
+1622040089 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\servicios.h
+
+1622028989 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\informespractica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informespractica.h"
+
+1621982812 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\informespractica.h
+	"trabajo.h"
+
+1621963175 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"moto.h"
+
+1621959283 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1621427387 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+
+1622038061 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+
+1622040452 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicios.h"
+	"trabajo.h"
+	"hardcodeo.h"
+	"informes.h"
+
+1622039360 c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\informes.h
+	"trabajo.h"
+
+1622038083 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplabpt2\diazbfranciscoexamen\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+
